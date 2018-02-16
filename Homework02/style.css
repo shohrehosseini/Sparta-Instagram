@@ -1,0 +1,22 @@
+body {
+	background-color: white;
+	text-align: center;
+	font-size: 18px;
+	font-family: Arial;
+	padding-top: 10px;
+	margin: 0;
+}
+#container {
+	display: inline;
+	width: 100%;
+ }
+#one {
+    width: 60%;
+    float: left;
+    overflow: hidden;
+}
+#two {
+    width: 40%;
+    float: right;
+    overflow: hidden;
+}
